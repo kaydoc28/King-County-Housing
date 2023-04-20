@@ -31,7 +31,7 @@ This analysis used Excel and Python. The following libraries were used in Python
   - Pylab
   - SKlearn
   ## Tableau Project
-  This presentaion is available on [Tableau](link).
+  This presentaion is available on [Tableau](https://public.tableau.com/app/profile/kayleigh.a.dougherty/viz/KingCountyStoryboard/KingCounty?publish=yes).
   The Tableau dashboard includes... 
    - An overview of King County
    - Summary statistics
